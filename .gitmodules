@@ -1,0 +1,3 @@
+[submodule "mihoyo-signin"]
+	path = mihoyo-signin
+	url = https://github.com/jianggaocheng/mihoyo-signin.git
